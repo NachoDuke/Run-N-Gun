@@ -6,7 +6,8 @@ import time
 
 from sqlmodule import *
 
-#tablecreate()
+#Uncomment the next line to incorporate the mysql part.
+##tablecreate()
 #print('Instructions: ')
 gamestartinstructions()
 
@@ -338,8 +339,12 @@ pygame.quit()
 print('\n'*3)
 print("Your score is ",man.score,"!!!")
 
-#recordinsert(man.score)
-#mediadriven()
+#Uncomment the next line to incorporate the mysql part.
+##recordinsert(man.score)
+
+#Uncomment the next line to incorporate the mysql part.
+##mediadriven()
+
 suggestions()
 
 

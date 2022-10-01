@@ -4,9 +4,13 @@
 # from main import *
 import mysql.connector
 
+#Uncomment the next line to incorporate the mysql part.
 ##mysqlPassword = input('Enter mysql password: ')
 
+#Uncomment the next line to incorporate the mysql part.
 ##mycon=mysql.connector.connect(host='localhost',user='root',passwd=mysqlPassword)
+
+#Uncomment the next line to incorporate the mysql part.
 ##curs=mycon.cursor()
 
 def tablecreate():
@@ -106,7 +110,9 @@ def gamestartinstructions():
     f=open('Instructions.txt','r')
     for i in f:
         print(i)
-    #displayhighscores(1)
+
+    #Uncomment the next line to incorporate the mysql part.
+    ##displayhighscores(1)
 
 def suggestions():
     while True:
