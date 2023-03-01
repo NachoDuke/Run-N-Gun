@@ -14,3 +14,7 @@ Note- For this, you will need to have mysql installed and set up.
 
 ## Credits
 Note that this project was a team effort and done in a group of 3. 
+
+
+Special credits to main man:
+NIROOP CHENGAPPA KARERA
