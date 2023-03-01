@@ -13,4 +13,4 @@ This game is also connected to a mysql database using the python mysql-connecter
 Note- For this, you will need to have mysql installed and set up.
 
 ## Credits
-Note that this project was a team effort and done in a group of 3. Due to privacy reasons, I will refrain from sharing the names of the other contributors.
+Note that this project was a team effort and done in a group of 3. 
